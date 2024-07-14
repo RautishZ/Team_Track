@@ -97,6 +97,8 @@ This chapter provides the preliminary groundwork for studying the different feat
 
 - **MySQL 8.0:** MySQL is Team Track’s recommended relational database management system due to its stability, speed, and scalability. It efficiently stores and sustains structured data, assisting the application in handling them.
 
+![Database Schema Image](images/schema_page.png)
+
 # CHAPTER 3: EMPLOYEE FEATURES
 
 ## 3.1 Employee Dashboard
@@ -108,12 +110,16 @@ As an employee, I may get a personalized dashboard within Team Track, providing 
 - **Team Information:** Offers insights into my team structure, including team members and their roles.
 - **Notifications:** Alerts me about important announcements or tasks assigned to me.
 
+![Employee Dashboard Image](images/employee_dashboard.png)
+
 ## 3.2 Attendance
 
 In Team Track, I have the ability to monitor and manage my attendance effectively. This feature allows me to:
 
 - **View Attendance Records:** Access detailed logs of my attendance history, including dates and statuses (present/absent/late/on leave).
 - **View Attendance Trends:** Track my attendance trends over a specified period by year.
+
+![Attendance Page Image](images/my_attendance.png)
 
 ## 3.3 My Leaves
 
@@ -123,6 +129,8 @@ The "My Leaves" section in Team Track enables me to manage my leave applications
 - **View Leave History:** Access a record of all my past leave applications, including approved, pending, and rejected leaves.
 - **Edit and Cancel Leaves:** Modify existing leave applications or cancel pending requests if necessary.
 
+![Leaves Page Image](images/myleaves.png)
+
 ## 3.4 My Teams
 
 In Team Track, I can stay informed about my team structure and collaborate effectively. This feature allows me to:
@@ -130,6 +138,8 @@ In Team Track, I can stay informed about my team structure and collaborate effec
 - **View Team Members:** Access a list of my team members, including their contact information and roles.
 - **Team Collaboration:** Communicate and collaborate with team members on projects and tasks.
 - **Team Performance:** Monitor team performance metrics and goals, if applicable.
+
+![Teams Page Image](images/myteams.png)
 
 # CHAPTER 4: ADMIN FEATURES
 
@@ -141,6 +151,8 @@ As an admin, I have access to a comprehensive dashboard that provides a holistic
 - **Attendance Statistics:** Insights into attendance applications, including the number of present, absent, late, on leave, and not marked.
 - **Leave Statistics:** Insights into leave applications, including the number of approved, pending, and rejected requests.
 
+![Admin Dashboard Image](images/admin_dashboard.png)
+
 ## 4.2 Manage Leaves
 
 The leave management feature allows me to handle employee leave requests efficiently. It includes the following functionalities:
@@ -148,12 +160,16 @@ The leave management feature allows me to handle employee leave requests efficie
 - **View Leave Applications:** Access a list of all leave applications, filtered by status (pending, approved, rejected).
 - **Approve/Reject Leaves:** Evaluate leave requests and update their status with appropriate comments.
 
+![Manage Leaves Image](images/manage_leaves.png)
+
 ## 4.3 Manage Attendance
 
 Team Track provides comprehensive tools for managing employee attendance. As an admin, I can:
 
 - **Monitor Attendance Records:** View and update attendance records for all employees.
 - **Attendance Correction:** Make corrections to attendance records to address discrepancies.
+
+![Manage Attendance Image](images/manage_attendance.png)
 
 ## 4.4 Manage Employee
 
@@ -163,6 +179,8 @@ Managing employee information is seamless with Team Track. Key features include:
 - **Update Employee Details:** Edit existing employee profiles to reflect changes in roles, contact information, or other personal details.
 - **View Employee List:** Access a complete list of all employees with search and filter functionalities.
 
+![Manage Employee Image](images/manage_employee.png)
+
 ## 4.5 Manage Department
 
 Efficient management of departments is crucial for organizational structure. Team Track provides tools to:
@@ -170,12 +188,16 @@ Efficient management of departments is crucial for organizational structure. Tea
 - **Add New Departments:** Create new departments and assign department heads.
 - **Update Department Information:** Edit details of existing departments, such as department name and head.
 
+![Manage Department Image](images/manage_department.png)
+
 ## 4.6 Manage Designation
 
 Managing employee designations is straightforward with Team Track. we can:
 
 - **Add New Designations:** Define new job titles and roles within the organization.
 - **Update Designations:** Edit existing designations to reflect changes in responsibilities or job titles.
+
+![Manage Designation Image](images/manage_designation.png)
 
 # CHAPTER 5: UI/UX FEATURES
 
@@ -187,6 +209,8 @@ The login page in Team Track is designed to provide a seamless and secure authen
 - **User-Friendly Design:** A clean and intuitive interface with input fields for email and password.
 - **Error Handling:** Displays error messages for incorrect login attempts using Toastify notifications.
 
+![Login Page Image](images/login_page.png)
+
 ## 5.2 Sidebar
 
 The sidebar is a crucial navigational element in Team Track, providing quick access to various features. Key elements include:
@@ -195,21 +219,7 @@ The sidebar is a crucial navigational element in Team Track, providing quick acc
 - **Navigation Links:** Provides easy access to different sections such as Dashboard, Attendance, Leaves, Teams, and Admin features.
 - **User Profile:** Displays the logged-in user’s profile picture and name.
 
-## 5.3 Employee Pages
-
-Employee pages in Team Track are designed to provide a user-friendly experience. Key features include:
-
-- **Responsive Design:** Ensures that the pages are accessible on various devices, including desktops, tablets, and smartphones.
-- **Consistent Layout:** Maintains a consistent layout with a header, content area, and footer.
-- **Interactive Elements:** Utilizes interactive elements such as buttons, dropdowns, and forms for user engagement.
-
-## 5.4 Admin Pages
-
-Admin pages are tailored to provide a comprehensive view of organizational activities. Key features include:
-
-- **Dashboard Overview:** Displays key metrics and statistics related to attendance, leaves, and employee information.
-- **Management Tools:** Provides tools for managing leaves, attendance, employees, departments, and designations.
-- **Data Visualization:** Utilizes charts and graphs to visualize attendance and leave statistics.
+![SideBar Image](images/sidebar.png)
 
 # CHAPTER 6: API ENDPOINTS
 
