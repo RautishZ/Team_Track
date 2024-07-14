@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-TeamTrackApplication<TeamTrack>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "com.teamtrack.teamtrack.TeamTrackApplication",
+      "projectName": "TeamTrack",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}
