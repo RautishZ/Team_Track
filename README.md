@@ -1,6 +1,6 @@
 # Team Track
 
-Team Track is a full-stack online application designed to streamline staff management operations within an enterprise. Utilizing contemporary technologies like React JS, Spring Boot, and MySQL, the application delivers capabilities for both employees and administrators. Employees may manage their attendance, leaves, and team information, while administrators have options for controlling attendance, leaves, employee data, departments, and designations. The application enables safe authentication using JWT and strong data processing with Spring Data JPA and Hibernate. Team Track seeks to boost organizational productivity by giving a comprehensive and user-friendly interface for tracking employee-related activities.
+Team Track is a full-stack online application designed for streamlining employee management within an enterprise. It utilizes technologies such as React JS, Spring Boot, and MySQL. The application provides capabilities for both employees and administrators. Employees can manage their attendance, leaves, and team information, while administrators can control attendance, leaves, employee data, departments, and designations. Team Track ensures secure authentication using JWT and robust data processing with Spring Data JPA and Hibernate. It aims to enhance organizational productivity by offering a comprehensive and user-friendly interface for tracking employee-related activities.
 
 ## Getting Started
 
