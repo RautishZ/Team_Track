@@ -47,11 +47,11 @@ Team Track is a full-stack online application designed for streamlining employee
      npm start
      ```
 5. **Login:**
-   admin
+   - admin
    email : admin@gmail.com
    password : 123
 
-   employee
+   - employee
    email : employee@gmail.com
    password : 123
 
