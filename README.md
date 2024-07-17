@@ -36,7 +36,7 @@ Team Track is a full-stack online application designed for streamlining employee
 3. **Frontend Setup:**
    - Navigate to the frontend directory:
      ```sh
-     cd team-track/frontend
+     cd team_track/frontend
      ```
    - Install dependencies:
      ```sh
@@ -46,6 +46,14 @@ Team Track is a full-stack online application designed for streamlining employee
      ```sh
      npm start
      ```
+5. **Login:**
+   admin
+   email : admin@gmail.com
+   password : 123
+
+   employee
+   email : employee@gmail.com
+   password : 123
 
 ## Table of Contents
 
