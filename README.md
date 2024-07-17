@@ -15,7 +15,7 @@ Team Track is a full-stack online application designed for streamlining employee
 1. **Clone the repository:**
 
    ```sh
-   https://github.com/rautishz/team-track.git](https://github.com/RautishZ/Team_Track.git
+   git clone https://github.com/RautishZ/Team_Track.git
    ```
 
 2. **Backend Setup:**
