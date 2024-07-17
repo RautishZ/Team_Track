@@ -22,7 +22,7 @@ Team Track is a full-stack online application designed for streamlining employee
 
    - Navigate to the backend directory:
      ```sh
-     cd team-track/backend
+     cd team_track/backend
      ```
    - Install dependencies and build the application:
      ```sh
